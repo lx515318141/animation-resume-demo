@@ -1,0 +1,19 @@
+*{margin: 0; padding: 0;}
+*{box-sizing: border-box;}
+.token.property{
+    color: black;
+}
+.token.function{
+    color: black;
+}
+.token.selector{
+    color: black;
+}
+#code{
+    height: 100vh;
+    overflow: scroll;
+    
+}
+#paper > .content{
+    padding-left: 16px;
+}
